@@ -15,6 +15,8 @@ create <- function(dir = '.') {
 
   main <- dir
   data <- 'data'
+  data_raw <- 'data/raw'
+  data_processed <- 'data/processed'
   doc <- 'doc'
   figs <- 'figs'
   output <- 'output'
